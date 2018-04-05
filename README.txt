@@ -9,9 +9,9 @@ See swagger-ui link for operations:
 	                  from APCA (http://bsb.apca.com.au/public/BSB_DB.NSF/publicBSB.xsp)
 	
 	POST /bsbService/loadFromUrl - use this to initially load the BSB data directly from APCA 
-					  by providing the URL.  For example, as of April 2018, the latest BSB data is 
-					  available from this link:
-					   http://bsb.apca.com.au/Public/CS4BSBDir.nsf/0/FBDE6088E28C6EDDCA2582640019234E/$File/BSBDirectoryMar18-264.csv
+                          by providing the URL.  For example, as of April 2018, the latest BSB data is 
+                          available from this link:
+				http://bsb.apca.com.au/Public/CS4BSBDir.nsf/0/FBDE6088E28C6EDDCA2582640019234E/$File/BSBDirectoryMar18-264.csv
 	                  
 Other useful links for this project:
 * H2 Console: http://localhost:8080/h2-console
